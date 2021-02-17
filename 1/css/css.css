@@ -1,0 +1,13 @@
+
+.price{
+      font-family: 'PT Sans', serif;
+    text-align: center;
+     margin-top:15px;
+     font-size:25px;
+     font-weight:bolder;
+     color:black
+}
+
+   .img{
+  margin-left:20%;
+   }
